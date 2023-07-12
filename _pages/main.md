@@ -12,7 +12,7 @@ I am currently a Master's student at [UTC](https://www.utc.edu/research/center-f
 
 ## Education 
 :mortar_board: Master in Computer Science, 2023-2024, <span class="grey">The University of Tennessee at Chattanooga</span> \
-:mortar_board: Master in Data Science, 2021-2022, <span class="grey">Hanoi University of Science, VMU</span> \
+:mortar_board: Master in Data Science, 2021-2022, <span class="grey">Hanoi University of Science, VNU</span> \
 :mortar_board: BSc in Information Technology, 2019-2021, <span class="grey">Hanoi University of Science and Technology</span> \
 :mortar_board: BSc in International Business Economics, 2010-2014, <span class="grey">Foreign Trade University</span> 
 
