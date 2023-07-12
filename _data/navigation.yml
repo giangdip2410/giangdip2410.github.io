@@ -6,8 +6,8 @@ main:
   - title: "About Me"
     url: /about_me/
 
-  - title: "Imperial Maths Competition"
-    url: /imperial_maths_competition/
+  # - title: "Imperial Maths Competition"
+  #   url: /imperial_maths_competition/
 
 #   - title: "Contact"
 #     url: /contact/
