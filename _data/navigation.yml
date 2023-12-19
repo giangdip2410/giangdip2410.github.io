@@ -7,24 +7,22 @@ main:
     url: /about_me/
   
   - title: "Blog Posts"
-   url: /year-archive/
+    url: /year-archive/
 
   # - title: "Imperial Maths Competition"
   #   url: /imperial_maths_competition/
 
-#   - title: "Contact"
-#     url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
-#  - title: "Talks"
-#    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
- 
-
-#  - title: "Guide"
-#    url: /markdown/
+  # - title: "Teaching"
+  #   url: /teaching/    
+      
+  # - title: "Portfolio"
+  #   url: /portfolio/
+          
+  # - title: "Guide"
+  #   url: /markdown/
