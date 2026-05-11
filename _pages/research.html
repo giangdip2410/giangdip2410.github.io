@@ -3,122 +3,101 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-<!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if author.googlescholar %}
+<p>You can also find my articles on
+  <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
+</p>
 {% endif %}
 
-{% include base_path %}
+<p><i>(<b>Bold</b> = me. <sup>*</sup> denotes first author.)</i></p>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+<h2>Refereed Conference & Journal Papers</h2>
 
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2026).
+<text class="pub-title">Eigenvectors of Experts are Training-free Non-collapsing Routers</text>.
+<b>ICML 2026 <i>(Spotlight)</i></b>.
+<br><br>
 
-<h2>Publication</h2>
-<b>Truong, D.</b> (2023).
-<text class="pub-title">HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</text>. EMNLP
-2023.
-<br>
-<!-- <button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('https://arxiv.org/abs/2304.14762','_blank')">Paper</button>
-<br>
-<br> -->
-<!-- 
-Huang, K. H., <b>Liu, X.</b>, Duncan, A. B., Gandy, A. (2023).
-<text class="pub-title">A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based
-  Testing</text>. COLT 2023.
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2026).
+<text class="pub-title">Rethinking Sparse Mixture of Experts from a Unified Perspective</text>.
+<b>ICML 2026</b>.
+<br><br>
+
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2026).
+<text class="pub-title">Do Domain-specific Experts Exist in MoE-based LLMs?</text>
+<b>ACL 2026 (Findings)</b>.
+<br><br>
+
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2025).
+<text class="pub-title">SimSMoE: Toward Efficient Training of Mixture of Experts via Solving Representational Collapse</text>.
+<b>NAACL 2025 (Findings)</b>.
+<br><br>
+
+<b>Do, G.<sup>*</sup></b>, Pham, K., Le, H., Tran, T. (2025).
+<text class="pub-title">On the Role of Discrete Representation in Sparse Mixture of Experts</text>.
+<b>Transactions on Machine Learning Research (TMLR)</b>.
+<br><br>
+
+<b>Do, G.<sup>*</sup></b>, Le, K., Nguyen, T., Pham, Q., Nguyen, B. T., Doan, T.-N., Liu, C., Ramasamy, S., Li, X., Hoi, S. (2023).
+<text class="pub-title">HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</text>.
+<b>EMNLP 2023 (Main Conference)</b>.
 <br>
 <button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('https://arxiv.org/abs/2302.05686','_blank')">Paper</button>
-<br>
-<br>
+  onclick=" window.open('https://aclanthology.org/2023.emnlp-main.346/','_blank')">Paper</button>
+<br><br>
 
-<b>Liu, X.</b>, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. B. (2022). <text class="pub-title">Grassmann Stein Variational
-  Gradient Descent</text>. AISTATS 2022.
-<br>
+
+<h2>Preprints & Under Review</h2>
+
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2026).
+<text class="pub-title">Measuring and Improving Robustness of Large Reasoning Models under Task Interruption</text>.
+Under review.
+<br><br>
+
+<b>Do, G.<sup>*</sup></b>, Le, H., Tran, T. (2026).
+<text class="pub-title">Think in Episodes: Controlling Reasoning in Language Models via Episodic Inference</text>.
+Under review.
+<br><br>
+
+Pham, Q., <b>Do, G.</b>, Nguyen, H., Nguyen, T., Liu, C., Sartipi, M., Nguyen, B. T., Ramasamy, S., Li, X., Hoi, S., Ho, N. (2024).
+<text class="pub-title">CompeteSMoE: Effective Training of Sparse Mixture of Experts via Competition</text>.
+Under review,
 <button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('https://proceedings.mlr.press/v151/liu22a.html','_blank')">Paper</button>
-<button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000','_blank')">Slides</button>
-<br>
-<br>
+  onclick=" window.open('https://arxiv.org/abs/2402.02526','_blank')">arXiv:2402.02526</button>
+<br><br>
 
-Zhu, H., <b>Liu, X.</b>, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). <text class="pub-title">Bayesian
-  probabilistic numerical integration with tree-based models</text>. Neural Information Processing Systems, 5837-5849.
-<br>
-<button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html','_blank')">Paper</button>
-<br>
-<br> -->
 
-<!-- <h2>Discussion and Workshop Papers</h2>
-<b>Liu, X.</b>, Duncan, A. B., Gandy, A. (2022). <text class="pub-title">Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy</text>. NeurIPS 2022 Workshop on Score-Based Methods.
-<br>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://openreview.net/forum?id=iubaXtWi0Y3','_blank')">Paper</button> 
-<br>
-<br>
+<h2>Honors & Awards</h2>
+<ul>
+  <li>Spotlight Paper, ICML 2026 — <i>Eigenvectors of Experts are Training-free Non-collapsing Routers</i>.</li>
+  <li>UTC Outstanding Graduate Student Award, 2023–2024.</li>
+  <li>Best Master's Thesis Award, VNU University of Science, Dec 2022.</li>
+  <li>Best Employee Award, Panasonic R&amp;D Vietnam, Jul 2022.</li>
+  <li>Best Project Award, Panasonic R&amp;D Vietnam, Dec 2021.</li>
+  <li>Best Bachelor Thesis Award, HUST, Jun 2021.</li>
+  <li>Vingroup Science and Technology Scholarship, 2021–2022.</li>
+</ul>
 
-Zhu, H., <b>Liu, X</b>., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). <text class="pub-title">Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”</text>. Bayesian Analysis, 15(3), 965-1056.
-<br>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://projecteuclid.org/euclid.ba/1580461461#abstract','_blank')">Journal (pp1032-1034)</button> 
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf','_blank')">Paper</button>
-<br>
-<br> -->
-<!-- 
-<h2>Talks</h2>
-14th Dec 2022, <i>Kernelized Stein Discrepancies and their applications in statistics and machine learning</i>, <b>Junior Stats Seminar</b> at Imperial College London.
-<br>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/ksd_ic_seminar.pdf','_blank')">Slides</button>
-<br>
-<br>
-
-31st May 2022, <i>Stein's Method in Statistics</i>. <b>Foundations and Landmark Reading Group</b> at University of London (online)
-<br>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/steins_method_ucl.pdf','_blank')">Slides</button>
-<br>
-<br>
-
-19th Aug 2021, <i>Bayesian probabilistic numerical integration with tree-based models</i>. <b>13th International Conference on Monte Carlo Methods and Applications (MCM)</b>, Universität Mannheim, Germany (online)
-<br>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Slides</button>
-<br>
-<br>
-
-31st Mar 2021, <i>Stein Variational Gradient Descent</i>. <b>CSML Reading Group</b> at Imperial College London (online)
-<br>
-<br> -->
-<br>
-<br>
 
 <h2>Research Projects</h2>
 
-<text class="pub-title">Benchmarking Deep Learning Models for Sensor Data Fusion.</text> Supervised by
-Dr.Mina Sartipi; University of Tennessee at Chattanooga. 2023
-<br>
-<br>
+<text class="pub-title">3D Infant Modelling and Video Tracking.</text>
+Applied AI Institute (A²I²), Deakin University. 2024–present
+<br><br>
 
-<text class="pub-title">Digital Twin Project: Improve 3D Object Detection for Indoor Datasets.</text> A research project
-of Panasonic R&D Center Vietnam. 2021-2022
-<br>
-<!-- <button type="button" class="btn btn-primary btn-sm"
-  onclick=" window.open('http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf','_blank')">Paper</button> -->
-<br>
-<br>
+<text class="pub-title">Knowledge-graph–based Evaluation for Radiology Report Generation.</text>
+Applied AI Institute (A²I²), Deakin University. 2024–present
+<br><br>
 
-<text class="pub-title">Identifying Constructive Comments in English & Vietnamese.</text> Supervised by
-Dr.Tuan-Anh Hoang; VNU University of Science. 2021
-<br>
-<br>
+<text class="pub-title">Benchmarking Deep Learning Models for Camera–LiDAR Data Fusion.</text>
+Supervised by Dr. Mina Sartipi; Center for Urban Informatics and Progress, University of Tennessee at Chattanooga. 2023–2024
+<br><br>
 
-<text class="pub-title">Building Smart Parking System with License plate recognition model and Face identity
-  recognition.
-</text> Supervised by Dr.Linh T. Dang; HUST Computer Vision Lab. 2020
-<br>
-<br>
+<text class="pub-title">Digital Twin for Buildings: 3D Object Detection and Semantic 3D Mapping.</text>
+Panasonic R&amp;D Center Vietnam. 2021–2022
+<br><br>
 
-<text class="pub-title">US Goverors’ COVID-19 Tweets Classification.
-</text> Collaborate with Dr. Hong Vu; University of Kansas. 2020
-<br>
-<br>
+<text class="pub-title">Identifying Constructive Comments in English & Vietnamese.</text>
+Supervised by Dr. Tuan-Anh Hoang; VNU University of Science. 2021
+<br><br>

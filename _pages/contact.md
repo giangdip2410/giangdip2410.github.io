@@ -4,12 +4,11 @@ permalink: /contact/
 author_profile: true
 ---
 
-### Address
-SimCenter Building \
-701 E M L King Blvd  \
-Chattanooga, TN 37403 \
-US
-
 ### Email
-jgm667 [at] mocs.utc.edu
+giangdo.utc [at] gmail.com
 
+### Address
+Applied Artificial Intelligence Institute (A²I²) \
+Deakin University \
+Geelong Waurn Ponds Campus, VIC 3216 \
+Australia

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Truong Giang Do"
+title                    : "Giang Do (James)"
 title_separator          : "-"
-name                     : &name "Truong Giang"
-description              : &description "Welcome to my webpage!"
+name                     : &name "Giang Do"
+description              : &description "PhD Candidate at Deakin University. Research on Sparse Mixture-of-Experts and large language models."
 url                      : https://giangdip2410.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giangdip2410/giangdip2410.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Truong Giang Do"
+  name             : "Giang Do (James)"
   avatar           : "20230402_155645.png"
-  bio              : "Master student of Computer Scince at University of Tennessee"
-  location         : "TN, US"
-  employer         :
+  bio              : "PhD Candidate, Applied AI Institute (A²I²), Deakin University. Researching Sparse Mixture-of-Experts and reasoning in large language models."
+  location         : "Geelong, VIC, Australia"
+  employer         : "Deakin University"
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=C6O8q10AAAAJ&hl=en"
   # email            : ""
