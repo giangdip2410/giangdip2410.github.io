@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the [Applied Artificial Intelligence Institute (A²I²)](https://a2i2.deakin.edu.au/), Deakin University, supervised by [Prof. Truyen Tran](https://truyentran.github.io/) and [Dr. Hung Le](https://thaihungle.github.io/). My research focuses on **Sparse Mixture-of-Experts (MoE)** for the efficient training and inference of large language models, and on **controllable and robust reasoning** in LLMs. A unifying thread of my PhD is the *binding problem*: how foundation models compose, separate, and route information across modular components.
 
-Before starting my PhD, I completed an M.Sc. in Computer Science at the University of Tennessee at Chattanooga (UTC) and an M.Sc. in Data Science at VNU University of Science. I have also spent more than six years as a data scientist and AI researcher in industry, including roles at Panasonic R&D Vietnam, Techcombank, and Toyota Motor Vietnam.
+Before starting my PhD, I studied an M.Sc. in Computer Science at the University of Tennessee at Chattanooga (UTC) and an M.Sc. in Data Science at VNU University of Science. I have also spent more than six years as a data scientist and AI researcher in industry, including roles at Panasonic R&D Vietnam, Techcombank, and Toyota Motor Vietnam.
 
 ## Education
 :mortar_board: **PhD in Information Technology**, 2024–present, <span class="grey">Deakin University, Australia</span> \

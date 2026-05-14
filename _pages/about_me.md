@@ -10,7 +10,7 @@ author_profile: true
 
 I am a PhD candidate at the [Applied Artificial Intelligence Institute (A²I²)](https://a2i2.deakin.edu.au/), Deakin University (Australia), supervised by Prof. Truyen Tran and Dr. Hung Le. My research focuses on **Sparse Mixture-of-Experts (MoE)** for efficient training and inference of large language models — studying routing, representational collapse, and the emergence of specialised experts — and on **controllable and robust reasoning** in LLMs. A unifying thread of my work is the *binding problem*: how foundation models compose, separate, and route information across modular components.
 
-I hold an M.Sc. in Computer Science from the University of Tennessee at Chattanooga (GPA 4.0/4.0, class rank 1st), and an M.Sc. in Data Science from VNU University of Science (Hanoi, Vietnam). I also hold a B.Tech. in Information Technology from Hanoi University of Science & Technology and a B.A. in International Business Economics from Foreign Trade University.
+I hold an M.Sc. in Data Science from VNU University of Science (Hanoi, Vietnam). I also hold a B.Tech. in Information Technology from Hanoi University of Science & Technology and a B.A. in International Business Economics from Foreign Trade University.
 
 Before academia, I spent more than six years as a data scientist and AI researcher, leading and contributing to industrial projects at Panasonic R&D Vietnam, Techcombank, and Toyota Motor Vietnam.
 
