@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "_posts/*.ipynb"
 keep_files:
   - .git
   - .svn
@@ -266,7 +267,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jemoji   # emoji
-  - jekyll-last-modified-at
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -275,11 +275,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-last-modified-at
-
-# Last edit: Date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
 
 # Archives
 #  Type
